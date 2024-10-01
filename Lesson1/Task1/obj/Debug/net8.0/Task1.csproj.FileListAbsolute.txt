@@ -1,0 +1,15 @@
+/workspaces/Csharplections/Lesson1/Task1/bin/Debug/net8.0/Task1
+/workspaces/Csharplections/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/workspaces/Csharplections/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/workspaces/Csharplections/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/workspaces/Csharplections/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/workspaces/Csharplections/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
